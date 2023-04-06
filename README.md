@@ -1,6 +1,5 @@
-# Statuscord
-A code that allows you to get the Playing, Listening, and Streaming Discord Statuses 24/7!
+# Status Modder Discord
+Um código que permite que você obtenha os status de reprodução, audição e transmissão do Discord 24 horas por dia, 7 dias por semana!
 
-### DO NOT GIVE YOUR TOKEN TO OTHERS!
-
-#### Giving your token to someone else will give them the ability to log into your account without the password or 2FA.
+### Modo De Uso
+A aplicação do codigo deve ser usada pela replit
